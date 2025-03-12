@@ -42,13 +42,14 @@ comments.
 
 ## Proposed Solution / Architecture Diagram :
 
-![WhatsApp Image 2025-03-11 at 8 04 06 PM](https://github.com/user-attachments/assets/0c8c0b75-8c2d-4e7a-9f06-b2743b849127)
+![WhatsApp Image 2025-03-11 at 8 04 06 PM (1)](https://github.com/user-attachments/assets/e16b23d6-70e9-4f7f-92b8-ce714fb82fa7)
+
 
 
 
 ## Use Cases :
 
-![WhatsApp Image 2025-03-11 at 8 04 06 PM](https://github.com/user-attachments/assets/26fa96bb-9763-46f8-80d3-fa945b51c0e8)
+![WhatsApp Image 2025-03-10 at 8 30 24 PM (1)](https://github.com/user-attachments/assets/f8314002-7b90-439e-a813-64e33a1587f7)
 
 
 
