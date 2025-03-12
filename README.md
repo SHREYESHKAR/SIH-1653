@@ -11,30 +11,69 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 # Idea :
-Resume Review: Implement an AI-driven resume review system where users (selectors) can score resumes based on a variety of criteria like qualifications, keywords, or work experience.
-Interview Simulation: Use a chat-based or video-based interview system where the applicant responds to predefined questions, and the selector can score the answers. Mock Interviews for Applicants: Applicants can simulate interviews and receive feedback on their responses (e.g., how well they handle stress, how clear their answers are). Virtual Job Fair: Simulate job fairs where applicants can interact with selectors in a mock environment, practicing their networking and interviewing skills. Skill Tests: Create simulations where applicants can take skills tests (coding challenges, aptitude tests, etc.) to assess their practical abilities. 
+Resume Review: Implement an AI-driven resume review system where users (selectors) can
+score resumes based on a variety of criteria like qualifications, keywords, or work
+experience.
+
+Interview Simulation: Use a chat-based or video-based interview system where the
+applicant responds to predefined questions, and the selector can score the answers.
+
+Mock Interviews for Applicants: Applicants can simulate interviews and receive feedback on
+their responses (e.g., how well they handle stress, how clear their answers are).
+
+Virtual Job Fair: Simulate job fairs where applicants can interact with selectors in a mock
+environment, practicing their networking and interviewing skills.
+
+Skill Tests: Create simulations where applicants can take skills tests (coding challenges,
+aptitude tests, etc.) to assess their practical abilities.
+
 Allow applicants to submit their resumes and cover letters through the platform. Simulate
 real-world job posting and application processes with features for uploading resumes and
 attaching documents. You could implement an AI-driven resume parser to extract key
 details (e.g., qualifications, experience).
+
 Automated Screening Tools: Implement resume scoring based on criteria defined in the job
 description (e.g., education, experience, skills). AI could score and rank applicants
 automatically based on keyword matching or predefined skills.
+
 Manual Screening Simulation: Allow selectors to manually review resumes, rate candidates
 based on specific criteria, and flag interesting applicants. Provide a space for notes and
 comments.
 
+## Proposed Solution / Architecture Diagram :
+
+![WhatsApp Image 2025-03-11 at 8 04 06 PM](https://github.com/user-attachments/assets/0c8c0b75-8c2d-4e7a-9f06-b2743b849127)
 
 
 
-## Proposed Solution / Architecture Diagram
+## Use Cases :
+
+![WhatsApp Image 2025-03-11 at 8 04 06 PM](https://github.com/user-attachments/assets/26fa96bb-9763-46f8-80d3-fa945b51c0e8)
 
 
-## Use Cases
 
 
-## Technology Stack
+## Technology Stack :
+Frontend: React.js, Vue.js, or Angular for building interactive and dynamic user interfaces.
+
+Backend: Node.js, Django, or Flask to handle simulations, user management, and analytics.
+
+AI/ML: TensorFlow, Scikit-learn, or GPT-4 to implement machine learning models for
+resume analysis, feedback generation, and bias detection.
+
+Database: MongoDB or PostgreSQL for storing user profiles, applicants, and simulation
+results.
+
+Cloud: AWS, Google Cloud, or Azure for scalable deployment.
 
 
-## Dependencies
+
+
+## Dependencies :
+
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.50,000
 
